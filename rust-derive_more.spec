@@ -6,8 +6,8 @@
 %global crate derive_more
 
 Name:           rust-%{crate}
-Version:        0.99.2
-Release:        2%{?dist}
+Version:        2.1.1
+Release:        1%{?dist}
 Summary:        Adds #[derive(x)] macros for more traits
 
 # Upstream license specification: MIT
